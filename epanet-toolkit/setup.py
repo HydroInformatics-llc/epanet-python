@@ -90,7 +90,7 @@ long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name = "epanet_toolkit",
-    version = "0.5.0",
+    version = "0.5.0.dev0",
 
     packages = ["epanet_toolkit", "epanet.toolkit"],
     package_dir = package_dir,
